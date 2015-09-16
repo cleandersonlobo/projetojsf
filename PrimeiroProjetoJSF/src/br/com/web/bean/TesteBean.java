@@ -15,8 +15,8 @@ public class TesteBean {
 			this.campo.setDisabled(false);
 			this.botao.setStyle("");
 		}else{
-		this.campo.setDisabled(true);
-		this.botao.setStyle("background-color:red; color: white;");
+			this.campo.setDisabled(true);
+			this.botao.setStyle("background-color:red; color: white;");
 		}
 	}
 	
